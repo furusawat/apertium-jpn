@@ -329,6 +329,25 @@ LEXICON VerbRoot
 持つ:持つ UVerbInflCP ; ! もつ carry
 行う:行う UVerbInflCP ; ! おこなう occur
 死ぬ:死ぬ UVerbInflCP ; ! die
+言う:言う UVerbInflCP ; 
+思う:思う UVerbInflCP ; 
+作る:作る UVerbInflCP ; 
+踊る:踊る UVerbInflCP ; 
+運ぶ:運ぶ UVerbInflCP ; 
+謝る:謝る UVerbInflCP ; 
+買う:買う UVerbInflCP ; 
+余る:余る UVerbInflCP ; 
+入る:入る UVerbInflCP ; 
+歩く:歩く UVerbInflCP ; 
+立つ:立つ UVerbInflCP ; 
+遊ぶ:遊ぶ UVerbInflCP ; 
+話す:話す UVerbInflCP ; 
+怒る:怒る UVerbInflCP ; 
+殺す:殺す UVerbInflCP ; 
+書く:書く UVerbInflCP ; 
+聞く:聞く UVerbInflCP ; 
+笑う:笑う UVerbInflCP ; 
+かむ:かむ UVerbInflCP ; 
 する%<v%>%<ifml%>%<npst%>:する PostShortForm ; ! do
 する%<v%>%<pol%>%<npst%>:します # ;
 する%<v%>%<cvb_te%>:して # ;
