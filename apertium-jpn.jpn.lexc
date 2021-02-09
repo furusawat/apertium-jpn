@@ -244,110 +244,110 @@ LEXICON POST-DIGITS
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON NounRoot
-家:家 NounTag ; ! house うち
-広島:広島 NounTag ; ! Hiroshima
-広島市:広島市 NounTag ; ! Hiroshima city
-原爆:原爆 NounTag ; ! atomic げんばく
-原爆ドーム:原爆ドーム NounTag ; ! atom bomb dome
-原爆爆弾:原爆爆弾 NounTag ; ! atomic bomb げんばくばくだん
-平和:平和 NounTag ; ! peace へいわ
-公園:公園 NounTag ; ! park こうえん
-広島市中央公園:広島市中央公園 NounTag ; ! Hiroshima central park ひろしまちゅうおこうえん
-世界:世界 NounTag ; ! world せかい
-設計:設計 NounTag ; ! せっけい design/layout
-爆心地:爆心地 NounTag ; ! ばくしんち hypocentre
-資料館:資料館 NounTag ; ! しりょうかん museum/archive
-構想:構想 NounTag ; ! こうそう plan
-バラック:バラック NounTag ; ! barracks
-区域:区域 NounTag ; ! くいき limits
-繁華街:繁華街 NounTag ; ! はんかがい downtown
-地区:地区 NounTag ; ! ちく district
-グレープフルーツ:グレープフルーツ NounTag ; ! grapefruit
-ジュース:ジュース NounTag ; ! juice
-マーマレード:マーマレード NounTag ; ! marmalade
-ジャム:ジャム NounTag ; ! jam
-土:土 NounTag ; ! soil つち
-フラノクマリン:フラノクマリン NounTag ; ! furanocoumarin
-食用:食用 NounTag ; ! edible しょくよう
-海外:かいがい NounTag ; ! foreign/overseas かいがい
-たまご:たまご NounTag ; ! Dir/LR
-卵:卵 NounTag ; ! egg
-日本語:日本語 NounTag ; ! Japanese language nihongo
-北側:北側 NounTag ; ! north side kitagawa
-会社:会社 NounTag ; ! company kaisha
-学校:学校 NounTag ; ! school gakkou
-公式サイト:公式サイト NounTag ; ! official site koushikisaito
-絞り:絞り NounTag ; ! しぼり
-物品:物品 NounTag ; ! ぶっぴん goods
-基本:基本 NounTag ; ! きほん foundation
-方法:方法 NounTag ; ! ほうほう method
-ドライクリーニング:ドライクリーニング NounTag ; ! dry cleaning
-牛乳:牛乳 NounTag ; ! ぎゅうにゅう milk
-場合:場合 NounTag ; ! ばあい situation/case
-ニュアンス:ニュアンス NounTag ; ! nuance
-表現:表現 NounTag ; ! ひょうげん expression
-水:水 NounTag ; ! みず water
-水気:水気 NounTag ; ! みずけ moisture
-選択:洗濯 NounTag ; ! せんたく laundry
-字:字 NounTag ; ! じ character
-漬物:漬物 NounTag ; ! つけもの pickled vegetables
-搾菜:搾菜 NounTag ; ! ザーサイ Szechuan pickles
-内部:内部 NounTag ; ! ないぶ interior
-外部:外部 NounTag ; ! がいぶ exterior
-動作:動作 NounTag ; ! どうさ action
+家:家 NounTag ; ! うち house
+海外:かいがい NounTag ; ! かいがい foreign/overseas
+会社:会社 NounTag ; ! かいしゃ company kaisha
 可能:可能 NounTag ; ! かのう potential
-流体:流体 NounTag ; ! りゅうたい fluid
-タオル:タオル NounTag ; ! towel
-同時:同時 NounTag ; ! どうじ simultaneous
-中止:中止 NounTag ; ! ちゅうし suspension/interruption
+外部:外部 NounTag ; ! がいぶ exterior
+学校:学校 NounTag ; ! がっこう school gakkou
+北側:北側 NounTag ; ! きたがわ north side kitagawa
+基本:基本 NounTag ; ! きほん foundation
+牛乳:牛乳 NounTag ; ! ぎゅうにゅう milk
+区域:区域 NounTag ; ! くいき limits
+空中:空中 NounTag ; ! くうちゅう air
+グレープフルーツ:グレープフルーツ NounTag ; ! ぐれーぷふるーつ grapefruit
+原爆:原爆 NounTag ; ! げんばく atomic
+原爆ドーム:原爆ドーム NounTag ; ! げんばくどーむ atom bomb dome
+原爆爆弾:原爆爆弾 NounTag ; ! げんばくばくだん atomic bomb
+公園:公園 NounTag ; ! こうえん park
+公式サイト:公式サイト NounTag ; ! こうしきさいと official site koushikisaito
+構想:構想 NounTag ; ! こうそう plan
+搾菜:搾菜 NounTag ; ! ざーさい Szechuan pickles
+絞り:絞り NounTag ; ! しぼり
+食用:食用 NounTag ; ! しょくよう edible
+資料館:資料館 NounTag ; ! しりょうかん museum/archive
+字:字 NounTag ; ! じ character
+ジャム:ジャム NounTag ; ! じゃむ jam
+ジュース:ジュース NounTag ; ! じゅーす juice
 隙間:隙間 NounTag ; ! すきま gap
 制限:制限 NounTag ; ! せいげん limit
+世界:世界 NounTag ; ! せかい world
+設計:設計 NounTag ; ! せっけい design/layout
+選択:洗濯 NounTag ; ! せんたく laundry
+タオル:タオル NounTag ; ! たおる towel
+たまご:たまご NounTag ; ! たまご Dir/LR
+卵:卵 NounTag ; ! たまご egg
+地区:地区 NounTag ; ! ちく district
+中止:中止 NounTag ; ! ちゅうし suspension/interruption
+漬物:漬物 NounTag ; ! つけもの pickled vegetables
+土:土 NounTag ; ! つち soil
+動作:動作 NounTag ; ! どうさ action
+同時:同時 NounTag ; ! どうじ simultaneous
+ドライクリーニング:ドライクリーニング NounTag ; ! どらいくりーにんぐ dry cleaning
+内部:内部 NounTag ; ! ないぶ interior
+日本語:日本語 NounTag ; ! にほんご Japanese language nihongo
+ニュアンス:ニュアンス NounTag ; ! にゅあんす nuance
+繁華街:繁華街 NounTag ; ! はんかがい downtown
+場合:場合 NounTag ; ! ばあい situation/case
 媒介:媒介 NounTag ; ! ばいかい　intermediary
-空中:空中 NounTag ; ! くうちゅう air
+爆心地:爆心地 NounTag ; ! ばくしんち hypocentre
+バラック:バラック NounTag ; ! ばらっく barracks
+表現:表現 NounTag ; ! ひょうげん expression
+広島:広島 NounTag ; ! ひろしま Hiroshima
+広島市:広島市 NounTag ; ! ひろしまし Hiroshima city
+広島市中央公園:広島市中央公園 NounTag ; ! ひろしまちゅうおこうえん Hiroshima central park
+フラノクマリン:フラノクマリン NounTag ; ! ふらのくまりん furanocoumarin
+物品:物品 NounTag ; ! ぶっぴん goods
+平和:平和 NounTag ; ! へいわ peace
+方法:方法 NounTag ; ! ほうほう method
+マーマレード:マーマレード NounTag ; ! まーまれーど marmalade
+水:水 NounTag ; ! みず water
+水気:水気 NounTag ; ! みずけ moisture
+流体:流体 NounTag ; ! りゅうたい fluid
 
 
 LEXICON ProperNouns
-日本:日本 NPTop ; ! Japan
-アメリカ:アメリカ NPTop ; ! America
+アメリカ:アメリカ NPTop ; ! あめりか America
+日本:日本 NPTop ; ! にほん Japan
 
 LEXICON AdjRoot
-静か:静か naAdjTag ; ! しずか　quiet
-多い:多 iAdj ; ! おお　many
-様々:様々 naAdjTag ; ! さまざま various
-必要:必要 naAdjTag ; ! ひつよう necessary
-相対的:相対的 naAdjTag ; ! そうたいてき relative
+多い:多 iAdj ; ! おおい many
 最終的:最終的 naAdjTag ; ! さいしゅうてき final
+様々:様々 naAdjTag ; ! さまざま various
+静か:静か naAdjTag ; ! しずか quiet
+相対的:相対的 naAdjTag ; ! そうたいてき relative
+必要:必要 naAdjTag ; ! ひつよう necessary
 
 LEXICON VerbRoot
-食べる:食べ RuVerbInflCP ; ! eat
-落とす:落とす UVerbInflCP ; ! drop
-含まる:含まる UVerbInflCP ; ! include
-向ける:向け UVerbInflCP ; ! turn
-残る:残る UVerbInflCP ; ! remain
-呼ぶ:呼ぶ UVerbInflCP ; ! call (something a name/yell out) よぶ
-使う:使う UVerbInflCP ; ! つかう use
-持つ:持つ UVerbInflCP ; ! もつ carry
+遊ぶ:遊ぶ UVerbInflCP ; ! あそぶ
+余る:余る UVerbInflCP ; ! あまる
+謝る:謝る UVerbInflCP ; ! あやまる
+歩く:歩く UVerbInflCP ; ! あるく
+言う:言う UVerbInflCP ; ! いう
 行う:行う UVerbInflCP ; ! おこなう occur
-死ぬ:死ぬ UVerbInflCP ; ! die
-言う:言う UVerbInflCP ; 
-思う:思う UVerbInflCP ; 
-作る:作る UVerbInflCP ; 
-踊る:踊る UVerbInflCP ; 
-運ぶ:運ぶ UVerbInflCP ; 
-謝る:謝る UVerbInflCP ; 
-買う:買う UVerbInflCP ; 
-余る:余る UVerbInflCP ; 
-入る:入る UVerbInflCP ; 
-歩く:歩く UVerbInflCP ; 
-立つ:立つ UVerbInflCP ; 
-遊ぶ:遊ぶ UVerbInflCP ; 
-話す:話す UVerbInflCP ; 
-怒る:怒る UVerbInflCP ; 
-殺す:殺す UVerbInflCP ; 
-書く:書く UVerbInflCP ; 
-聞く:聞く UVerbInflCP ; 
-笑う:笑う UVerbInflCP ; 
-かむ:かむ UVerbInflCP ; 
+怒る:怒る UVerbInflCP ; ! おこる
+落とす:落とす UVerbInflCP ; ! おとす drop
+踊る:踊る UVerbInflCP ; ! おどる
+思う:思う UVerbInflCP ; ! おもう
+買う:買う UVerbInflCP ; ! かう
+書く:書く UVerbInflCP ; ! かく
+かむ:かむ UVerbInflCP ; ! かむ
+聞く:聞く UVerbInflCP ; ! きく
+殺す:殺す UVerbInflCP ; ! ころす
+死ぬ:死ぬ UVerbInflCP ; ! しぬ die
+立つ:立つ UVerbInflCP ; ! たつ
+食べる:食べ RuVerbInflCP ; ! たべる eat
+使う:使う UVerbInflCP ; ! つかう use
+作る:作る UVerbInflCP ; ! つくる
+残る:残る UVerbInflCP ; ! のこる remain
+入る:入る UVerbInflCP ; ! はいる
+運ぶ:運ぶ UVerbInflCP ; ! はこぶ
+話す:話す UVerbInflCP ; ! はなす
+含まる:含まる UVerbInflCP ; ! ふくまれる include
+向ける:向け UVerbInflCP ; ! むける turn
+持つ:持つ UVerbInflCP ; ! もつ carry
+呼ぶ:呼ぶ UVerbInflCP ; ! よぶ call (something a name/yell out)
+笑う:笑う UVerbInflCP ; ! わらう
 する%<v%>%<ifml%>%<npst%>:する PostShortForm ; ! do
 する%<v%>%<pol%>%<npst%>:します # ;
 する%<v%>%<cvb_te%>:して # ;
@@ -365,12 +365,12 @@ LEXICON Determiners
 
 LEXICON Conjunctions
 しかし%<cnjcoo%>:しかし # ; ! however
-また%<cnjcoo%>:また # ; ! also
 そして%<cnjcoo%>:そして # ; ! additionally
+また%<cnjcoo%>:また # ; ! also
 
 LEXICON Adverbs
 特に%<adv%>:特に # ; ! とくに especially
-もう%<adv%>:もう # ; ! already
+もう%<adv%>:もう # ; ! もう already
 
 !LEXICON Interjections
 
