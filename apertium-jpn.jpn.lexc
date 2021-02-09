@@ -104,7 +104,7 @@ Conjunctions ;
 
 Determiners ;
 
-!Interjections ;
+Interjections ;
 
 Adverbs ;
 
@@ -372,7 +372,11 @@ LEXICON Adverbs
 特に%<adv%>:特に # ; ! とくに especially
 もう%<adv%>:もう # ; ! もう already
 
-!LEXICON Interjections
+LEXICON Interjections
+ありがとう%<ij%>:ありがとう # ; ! thanks
+ありがとうございます%<ij%>:ありがとうございます # ; ! thank you
+こんにちは%<ij%>:こんにちは # ; ! greetings
+はい%<ij%>:はい # ; ! yes
 
 LEXICON Digits
 DIGITLEX ;
