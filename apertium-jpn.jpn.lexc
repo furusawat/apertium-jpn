@@ -319,35 +319,35 @@ LEXICON AdjRoot
 必要:必要 naAdjTag ; ! ひつよう necessary
 
 LEXICON VerbRoot
-遊ぶ:遊ぶ UVerbInflCP ; ! あそぶ
-余る:余る UVerbInflCP ; ! あまる
-謝る:謝る UVerbInflCP ; ! あやまる
-歩く:歩く UVerbInflCP ; ! あるく
-言う:言う UVerbInflCP ; ! いう
+遊ぶ:遊ぶ UVerbInflCP ; ! あそぶ play (games)
+余る:余る UVerbInflCP ; ! あまる remain
+謝る:謝る UVerbInflCP ; ! あやまる apologize
+歩く:歩く UVerbInflCP ; ! あるく walk
+言う:言う UVerbInflCP ; ! いう say
 行う:行う UVerbInflCP ; ! おこなう occur
-怒る:怒る UVerbInflCP ; ! おこる
+怒る:怒る UVerbInflCP ; ! おこる be angry
 落とす:落とす UVerbInflCP ; ! おとす drop
-踊る:踊る UVerbInflCP ; ! おどる
-思う:思う UVerbInflCP ; ! おもう
-買う:買う UVerbInflCP ; ! かう
-書く:書く UVerbInflCP ; ! かく
-かむ:かむ UVerbInflCP ; ! かむ
-聞く:聞く UVerbInflCP ; ! きく
-殺す:殺す UVerbInflCP ; ! ころす
+踊る:踊る UVerbInflCP ; ! おどる dance
+思う:思う UVerbInflCP ; ! おもう think
+買う:買う UVerbInflCP ; ! かう buy
+書く:書く UVerbInflCP ; ! かく write
+かむ:かむ UVerbInflCP ; ! かむ bite
+聞く:聞く UVerbInflCP ; ! きく listen
+殺す:殺す UVerbInflCP ; ! ころす kill
 死ぬ:死ぬ UVerbInflCP ; ! しぬ die
-立つ:立つ UVerbInflCP ; ! たつ
+立つ:立つ UVerbInflCP ; ! たつ stand
 食べる:食べ RuVerbInflCP ; ! たべる eat
 使う:使う UVerbInflCP ; ! つかう use
-作る:作る UVerbInflCP ; ! つくる
+作る:作る UVerbInflCP ; ! つくる make
 残る:残る UVerbInflCP ; ! のこる remain
-入る:入る UVerbInflCP ; ! はいる
-運ぶ:運ぶ UVerbInflCP ; ! はこぶ
-話す:話す UVerbInflCP ; ! はなす
+入る:入る UVerbInflCP ; ! はいる enter
+運ぶ:運ぶ UVerbInflCP ; ! はこぶ carry
+話す:話す UVerbInflCP ; ! はなす talk
 含まる:含まる UVerbInflCP ; ! ふくまれる include
 向ける:向け UVerbInflCP ; ! むける turn
 持つ:持つ UVerbInflCP ; ! もつ carry
 呼ぶ:呼ぶ UVerbInflCP ; ! よぶ call (something a name/yell out)
-笑う:笑う UVerbInflCP ; ! わらう
+笑う:笑う UVerbInflCP ; ! わらう laugh
 する%<v%>%<ifml%>%<npst%>:する PostShortForm ; ! do
 する%<v%>%<pol%>%<npst%>:します # ;
 する%<v%>%<cvb_te%>:して # ;
